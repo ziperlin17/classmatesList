@@ -1,4 +1,4 @@
 # classmatesList
 список однокурсников - create, read, delete
-postgresql
-password = 12
+#postgresql
+#password = 12
