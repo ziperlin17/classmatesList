@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE web-app
+        PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+<!--    <servlet>-->
+<!--        <servlet-name>group</servlet-name>-->
+<!--        <jsp-file>/jsp/group.jsp</jsp-file>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>group</servlet-name>-->
+<!--        <url-pattern>/group</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+    <servlet>
+        <servlet-name>test</servlet-name>
+        <jsp-file>/jsp/list.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>test</servlet-name>
+        <url-pattern>/list</url-pattern>
+    </servlet-mapping>
+
+    <!--    <servlet>-->
+<!--        <servlet-name>group-list</servlet-name>-->
+<!--        <jsp-file>/jsp/list.jsp</jsp-file>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>group-list</servlet-name>-->
+<!--        <url-pattern>/jsp/list.jsp</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+</web-app>
