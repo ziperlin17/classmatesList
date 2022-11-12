@@ -1,4 +1,4 @@
 # classmatesList
-##список однокурсников - create, read, delete
-##postgresql
-###password = 12
+список однокурсников - create, read, delete <br />
+postgresql<br />
+password = 12<br />
