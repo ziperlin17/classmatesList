@@ -1,2 +1,3 @@
 # classmatesList
-password = 12
+
+#password = 12
