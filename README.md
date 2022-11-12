@@ -1,3 +1,3 @@
 # classmatesList
-
-#password = 12
+список однокурсников - create, read, delete
+password = 12
