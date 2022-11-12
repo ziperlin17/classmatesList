@@ -1,1 +1,2 @@
 # classmatesList
+password = 12
